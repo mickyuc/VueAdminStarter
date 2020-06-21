@@ -1,0 +1,11 @@
+{
+  "roleListItems": [
+    "sudo",
+    "staff",
+    "user"
+  ],
+  "accessListItems": [
+    "w",
+    "r"
+  ]
+}
