@@ -1,0 +1,7 @@
+{
+  "username": "lifeshare_admin",
+  "password": "gQRvKBlHc1det5mv",
+  "database": "lifeshare_db",
+  "host": "localhost",
+  "dialect": "mysql"
+}
